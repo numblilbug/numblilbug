@@ -9,7 +9,8 @@ Bachelor’s degree in Computational Linguistics — **HSE University**
 - Python, basic R, SQL  
 - NLTK, spaCy, Gensim, Transformers  
 - scikit-learn, pandas, numpy, basic PyTorch  
-- LangChain, Streamlit, ELAN, basic Praat  
+- LangChain, LangGraph, Streamlit
+- ELAN, basic Praat  
 
 ---
 
