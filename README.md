@@ -1,6 +1,6 @@
 # Polina Karpova
 
-Technical Manager & Data Scientist at **SberEducation**  
+ML Engineer at **SberEducation**  
 Bachelor’s degree in Computational Linguistics — **HSE University**
 
 ---
