@@ -4,7 +4,6 @@ ML Engineer at **SberEducation**
 Bachelor’s degree in Computational Linguistics — **HSE University**
 
 Building production NLP & LLM systems for EdTech
----
 
 ## 🛠 Tech Stack
 
